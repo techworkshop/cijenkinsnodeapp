@@ -1,0 +1,27 @@
+{
+  "name": "cijenkinsnodeapp",
+  "version": "1.0.0",
+  "description": "Sample Node App to test CI using Jenkins",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techworkshop/cijenkinsnodeapp.git"
+  },
+  "keywords": [
+    "Node",
+    "Jenkins",
+    "CI"
+  ],
+  "author": "Gengaraj Subbiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techworkshop/cijenkinsnodeapp/issues"
+  },
+  "homepage": "https://github.com/techworkshop/cijenkinsnodeapp#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
